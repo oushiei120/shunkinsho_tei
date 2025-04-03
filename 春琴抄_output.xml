@@ -1,0 +1,211 @@
+<listPerson>
+    <person xml:id="ジャン・ジャック・ルーソー">
+        <persName>ジャン・ジャック・ルーソー</persName>
+    </person>
+    <person xml:id="一往佐助">
+        <persName>一往佐助</persName>
+    </person>
+    <person xml:id="三介">
+        <persName>三介</persName>
+    </person>
+    <person xml:id="九兵衛">
+        <persName>九兵衛</persName>
+    </person>
+    <person xml:id="仰山">
+        <persName>仰山</persName>
+    </person>
+    <person xml:id="佐助">
+        <persName>佐助</persName>
+    </person>
+    <person xml:id="佐藤春夫">
+        <persName>佐藤春夫</persName>
+    </person>
+    <person xml:id="光誉春琴恵照">
+        <persName>光誉春琴恵照</persName>
+    </person>
+    <person xml:id="利太郎">
+        <persName>利太郎</persName>
+    </person>
+    <person xml:id="十郎兵衛">
+        <persName>十郎兵衛</persName>
+    </person>
+    <person xml:id="吉田玉">
+        <persName>吉田玉</persName>
+    </person>
+    <person xml:id="吉田玉次郎">
+        <persName>吉田玉次郎</persName>
+    </person>
+    <person xml:id="周章">
+        <persName>周章</persName>
+    </person>
+    <person xml:id="喬木">
+        <persName>喬木</persName>
+    </person>
+    <person xml:id="団平">
+        <persName>団平</persName>
+    </person>
+    <person xml:id="大団">
+        <persName>大団</persName>
+    </person>
+    <person xml:id="大隅">
+        <persName>大隅</persName>
+    </person>
+    <person xml:id="安左衛門">
+        <persName>安左衛門</persName>
+    </person>
+    <person xml:id="寺男">
+        <persName>寺男</persName>
+    </person>
+    <person xml:id="小倉敬二">
+        <persName>小倉敬二</persName>
+    </person>
+    <person xml:id="小糸">
+        <persName>小糸</persName>
+    </person>
+    <person xml:id="峩山">
+        <persName>峩山</persName>
+    </person>
+    <person xml:id="悪七兵衛景清">
+        <persName>悪七兵衛景清</persName>
+    </person>
+    <person xml:id="摂津大掾">
+        <persName>摂津大掾</persName>
+    </person>
+    <person xml:id="日光誉">
+        <persName>日光誉</persName>
+    </person>
+    <person xml:id="春松">
+        <persName>春松</persName>
+    </person>
+    <person xml:id="春松検校">
+        <persName>春松検校</persName>
+    </person>
+    <person xml:id="春琴伝">
+        <persName>春琴伝</persName>
+    </person>
+    <person xml:id="春琴女">
+        <persName>春琴女</persName>
+    </person>
+    <person xml:id="春琴">
+        <persName>春琴</persName>
+    </person>
+    <person xml:id="春琴恵照">
+        <persName>春琴恵照</persName>
+    </person>
+    <person xml:id="時佐">
+        <persName>時佐</persName>
+    </person>
+    <person xml:id="検校">
+        <persName>検校</persName>
+    </person>
+    <person xml:id="温井佐助">
+        <persName>温井佐助</persName>
+    </person>
+    <person xml:id="温井検校">
+        <persName>温井検校</persName>
+    </person>
+    <person xml:id="玉次郎">
+        <persName>玉次郎</persName>
+    </person>
+    <person xml:id="玉造">
+        <persName>玉造</persName>
+    </person>
+    <person xml:id="琴台">
+        <persName>琴台</persName>
+    </person>
+    <person xml:id="琴女">
+        <persName>琴女</persName>
+    </person>
+    <person xml:id="琴女九">
+        <persName>琴女九</persName>
+    </person>
+    <person xml:id="真誉琴台">
+        <persName>真誉琴台</persName>
+    </person>
+    <person xml:id="美濃屋九兵衛">
+        <persName>美濃屋九兵衛</persName>
+    </person>
+    <person xml:id="豊沢団七">
+        <persName>豊沢団七</persName>
+    </person>
+    <person xml:id="豊沢団平俗">
+        <persName>豊沢団平俗</persName>
+    </person>
+    <person xml:id="越路太夫">
+        <persName>越路太夫</persName>
+    </person>
+    <person xml:id="跡部">
+        <persName>跡部</persName>
+    </person>
+    <person xml:id="金四">
+        <persName>金四</persName>
+    </person>
+    <person xml:id="頼朝">
+        <persName>頼朝</persName>
+    </person>
+    <person xml:id="鴫沢てる女">
+        <persName>鴫沢てる女</persName>
+    </person>
+    <person xml:id="鴫沢勾当">
+        <persName>鴫沢勾当</persName>
+    </person>
+    <person xml:id="鵙屋安左衛門">
+        <persName>鵙屋安左衛門</persName>
+    </person>
+    <person xml:id="鵙屋春琴">
+        <persName>鵙屋春琴</persName>
+    </person>
+</listPerson>
+<listPlace>
+    <place xml:id="下寺町">
+        <placeName>下寺町</placeName>
+    </place>
+    <place xml:id="京都麩屋">
+        <placeName>京都麩屋</placeName>
+    </place>
+    <place xml:id="大大阪市">
+        <placeName>大大阪市</placeName>
+    </place>
+    <place xml:id="大阪">
+        <placeName>大阪</placeName>
+    </place>
+    <place xml:id="大阪道修町">
+        <placeName>大阪道修町</placeName>
+    </place>
+    <place xml:id="天王寺">
+        <placeName>天王寺</placeName>
+    </place>
+    <place xml:id="市内下寺町">
+        <placeName>市内下寺町</placeName>
+    </place>
+    <place xml:id="有馬">
+        <placeName>有馬</placeName>
+    </place>
+    <place xml:id="江州日野">
+        <placeName>江州日野</placeName>
+    </place>
+    <place xml:id="江州日野町">
+        <placeName>江州日野町</placeName>
+    </place>
+    <place xml:id="河内">
+        <placeName>河内</placeName>
+    </place>
+    <place xml:id="淀屋橋">
+        <placeName>淀屋橋</placeName>
+    </place>
+    <place xml:id="道修町">
+        <placeName>道修町</placeName>
+    </place>
+    <place xml:id="難波津">
+        <placeName>難波津</placeName>
+    </place>
+    <place xml:id="京都">
+        <placeName>京都</placeName>
+    </place>
+    <place xml:id="大阪">
+        <placeName>大阪</placeName>
+    </place>
+    <place xml:id="東京">
+        <placeName>東京</placeName>
+    </place>
+</listPlace>
